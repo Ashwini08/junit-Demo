@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://D://JunitDemo/JunitDemo.iml" filepath="D://JunitDemo/JunitDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit.iml" filepath="$PROJECT_DIR$/junit.iml" />
     </modules>
   </component>
 </project>

@@ -19,6 +19,7 @@ public class Test99GuruLogin {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get("http://demo.guru99.com/V4/");
 	}
+	//  WE ARE TESTING ON GIT HUB
 
 	/**
 	 * This test case will login in http://demo.guru99.com/V4/
