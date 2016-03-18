@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7469f089-26c9-45e2-b5ac-f388867ffe85" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Guru99Login.class" afterPath="$PROJECT_DIR$/target/classes/Guru99Login.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Test99GuruLogin.class" afterPath="$PROJECT_DIR$/target/test-classes/Test99GuruLogin.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Guru99Login.java" afterPath="$PROJECT_DIR$/src/main/java/Guru99Login.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Test99GuruLogin.java" afterPath="$PROJECT_DIR$/src/test/java/Test99GuruLogin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/selenium_server_standalone_2_52_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/selenium_server_standalone_2_52_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JunitDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +31,8 @@
       <file leaf-file-name="Guru99Login.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Guru99Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6455696">
-              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.68456376">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -579,7 +572,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1456" height="876" extended-state="0" />
+    <frame x="-4" y="0" width="1456" height="876" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -749,8 +742,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Guru99Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6455696">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.68456376">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

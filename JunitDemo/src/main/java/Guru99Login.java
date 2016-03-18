@@ -18,6 +18,7 @@ public class Guru99Login {
 	public void setUserName(String strUserName){
 		driver.findElement(user99GuruName).sendKeys(strUserName);;
 	}
+	// hello 123456
 	//changing
 	//Set password in password textbox
 	public void setPassword(String strPassword){
